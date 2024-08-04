@@ -1,0 +1,47 @@
+*{
+    background-color: black;
+}
+.heart-container{
+    margin-left: 45vh;
+    margin-top: -12vh;
+
+}
+.heart{
+    position: absolute;
+    width: 192px;
+    height: 200px;
+    transform: rotate(45deg);
+    background-color: red;
+    margin-top: 300px;
+    margin-left: 300px;
+    
+}
+.heart-shape{
+    position:absolute;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    z-index: 10;
+    background-color: red;
+    margin-top: 350px;
+    margin-left: 289px;
+}
+.heart-shape1{
+    position:absolute;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    z-index: 10;
+    background-color: red;
+    margin-top: 350px;
+    margin-left: 377px;
+}
+.cont{
+    width: 400px;
+    height: 200px;
+    background-color: black;
+    position: absolute;
+    z-index: 9;
+    margin-top: 250px;
+    margin-left: 250px;
+}
